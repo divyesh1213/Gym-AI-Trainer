@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌱 I’m currently learning ...
 
 <!--
 **divyesh1213/divyesh1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
